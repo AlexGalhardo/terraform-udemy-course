@@ -1,0 +1,10 @@
+mode_modules
+.terraform/
+terraform.*
+*.backup
+*.hcl
+*.tfvars
+*.tfstate
+*.out
+*.info
+azure-key*
